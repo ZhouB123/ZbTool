@@ -1,0 +1,6 @@
+LIBRARY "SUP300API.dll"
+
+EXPORTS
+
+test_print
+test_sum
